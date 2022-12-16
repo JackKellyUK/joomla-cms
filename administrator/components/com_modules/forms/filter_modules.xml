@@ -76,6 +76,7 @@
 			type="contentlanguage"
 			label="JGRID_HEADING_LANGUAGE"
 			onchange="this.form.submit();"
+      		layout="joomla.form.field.list-fancy-select"
 			>
 			<option value="">JOPTION_SELECT_LANGUAGE</option>
 			<option value="*">JALL</option>
